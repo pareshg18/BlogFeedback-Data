@@ -1,4 +1,4 @@
-# Blog-post-Data
+# BlogFeedback-Data
 
 Performed Least Square Regression, Ridge regression and Lasso regression on the blog feedback data (https://archive.ics.uci.edu/ml/datasets/BlogFeedback) to predict the number of comments a post will recieve.
 
